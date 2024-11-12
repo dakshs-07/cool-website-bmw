@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: cornflowerblue;
+  color: cornsilk;
+}
+
+footer {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  background-color: #1c1c1c;
+}
